@@ -1,0 +1,14 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+	"variables":
+	{
+	},
+	"globals":
+	{
+		"selection": "#444444"
+	},
+	"rules":
+	[
+		
+	]
+}

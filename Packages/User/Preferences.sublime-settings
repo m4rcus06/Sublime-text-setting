@@ -1,0 +1,18 @@
+{
+    "font_face": "Fira Code Medium",
+    "highlight_line": true,
+    "margin": 10,
+    "line_padding_bottom": 5,
+    "line_padding_top": 5,
+    "caret_extra_bottom": 12,
+    "caret_extra_top": 12,
+    "hide_tab_scrolling_buttons": true,
+    "font_size": 10,
+    "theme": "GitHub Adaptive.sublime-theme",
+    "ignored_packages":
+    [
+		"Vintage",
+    ],
+    "color_scheme": "Solarized (light).sublime-color-scheme",
+    "original_color_scheme": "Packages/RailsBase16 Color Schemes/RailsBase16-chalk.dark.tmTheme",
+}
